@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  min-height: 100vh;
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+ 
+}
+:root {
+  background-image: radial-gradient(ellipse at top left, #d1f844, #ff28e2, rgb(245, 79, 79));
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;}
+body {
+  margin: 0;
+  color: #fffafa;
+  text-align: center;
+}
+
+.post {
+  background-color: rgb(214, 214, 81);
+}
