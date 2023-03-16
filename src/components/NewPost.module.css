@@ -1,5 +1,5 @@
 .form {
-    background-color: #6233b9;
+    background-color: #37b933;
     padding: 1rem;
     width: 20rem;
     margin: 2rem auto;
@@ -10,7 +10,7 @@
   .form label {
     display: block;
     margin-bottom: 0.05rem;
-    color: #370d68;
+    color: #eadbfb;
     font-weight: bold;
   }
   
